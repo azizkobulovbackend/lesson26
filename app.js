@@ -3,4 +3,4 @@
 
 // 1. Git init
 // 2. Git add .
-// 3. Git commit -m "init"
+// 3. Git commit -m "2init"
